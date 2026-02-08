@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/org.nxengine.nxengine_evo.desktop
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/nxengine-evo
+quick-sharun /usr/bin/nxengine-evo /usr/share/nxengine/*
 
 # Additional changes can be done in between here
 
